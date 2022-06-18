@@ -1,0 +1,14 @@
+{
+  "name": "tesla-auto-apply",
+  "version": "1.0.0",
+  "description": "Auto apply/fill out application form for tesla internships",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^14.3.0"
+  }
+}
